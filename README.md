@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joyetta
-- 👀 I’m interested in machine learning and 
+- 👀 I’m a self-proclaimed data enthusiast and 
 - 🌱 I’m currently learning data science with Azure
 - 💞️ I’m looking to collaborate on finance-related data science projects
 - 📫 You can reach me on Github!
